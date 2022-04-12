@@ -1,9 +1,9 @@
 
       body { 
-         background-color: azure;    
+         background-color: rgb(140, 146, 112);    
       }
       hr {
-        background-color: white;
+        background-color: rgb(165, 88, 88);
         border-style: dotted none none none;
         border-color: gray;
         border-width: 5px;
