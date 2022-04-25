@@ -48,8 +48,8 @@ h3 {
   align-self: auto;
   background-color: cyan;
   margin: auto;
-  width:100px;
-  height:150px;
+  width: auto;
+  height:100px;
 }
 
 .skill-row {
