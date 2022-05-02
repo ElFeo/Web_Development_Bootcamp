@@ -68,8 +68,9 @@ h3 {
 
 .chilli-img {
   width: 25%;
-  float: right;
+  float: right; 
   margin-left: 30px;
+  margin-bottom: auto;
 }
 
 .top-cloud {
@@ -83,3 +84,26 @@ h3 {
   left : 300px;
   bottom: 300px;
 }
+
+
+.btn {
+  font-size:15px;
+  /* font-family:Arial; */
+  width:200px;
+  height:82px;
+  border-width:6px;
+  color:#fff;
+  border-color:#18ab29;
+  border-top-left-radius:16px;
+  border-top-right-radius:16px;
+  border-bottom-left-radius:16px;
+  border-bottom-right-radius:16px;
+  box-shadow:inset 1px 1px 0px 1px #fff;
+  text-shadow:inset 1px 1px 0px #2f6627;
+  background:linear-gradient(#44c767, #5cbf2a);
+}
+
+.btn:hover {
+  background: linear-gradient(#5cbf2a, #44c767);
+}
+              
